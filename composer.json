@@ -6,7 +6,7 @@
             "email": "plageat@ngs.ru"
         }
     ],
-    "require": {}
+    "require": {},
     "bin": [
             "bin/brain-games"
         ]
