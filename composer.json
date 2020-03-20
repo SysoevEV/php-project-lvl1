@@ -1,0 +1,13 @@
+{
+    "name": "sys/php-lvl1",
+    "authors": [
+        {
+            "name": "SysoevEV",
+            "email": "plageat@ngs.ru"
+        }
+    ],
+    "require": {}
+    "bin": [
+            "bin/brain-games"
+        ]
+}
